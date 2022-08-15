@@ -708,3 +708,4 @@ fwmrm.net
 ! https://github.com/AdguardTeam/AdguardDNS/issues/63
 ||googleadapis.l.google.com^
 ||toutiaovod.com^
+||p1-dy.bytexservice.com^
