@@ -707,3 +707,4 @@ fwmrm.net
 ||s.youtube.com^
 ! https://github.com/AdguardTeam/AdguardDNS/issues/63
 ||googleadapis.l.google.com^
+||toutiaovod.com^
