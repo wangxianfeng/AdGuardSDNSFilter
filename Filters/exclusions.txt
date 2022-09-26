@@ -5,3 +5,4 @@
 ||sandai.net^
 ||ksyun.com^
 ||tiqcdn.cn^
+||game-assets.tencent-cloud.com^
