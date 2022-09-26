@@ -3,3 +3,4 @@
 ||xiaomi.com^
 ||g.mi.com^
 ||sandai.net^
+||ksyun.com^
