@@ -2,3 +2,4 @@
 ||p1-dy.bytexservice.com^
 ||xiaomi.com^
 ||g.mi.com^
+||sandai.net^
