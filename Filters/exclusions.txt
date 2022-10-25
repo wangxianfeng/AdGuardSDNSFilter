@@ -9,11 +9,7 @@
 ||kwimgs.com^
 ||toutiao.com^
 ||4399.com^
-||tencent-cloud.net^
 ||down.qq.com.legodlied1.sched.dcloudstc.com.tdl.tx.aopntcdn.cn^
-||dldir1.qq.com^
-||speed.ino.qq.com^
-||control.mna.qq.com^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
 ||gpcloud.tgpa.qq.com^
 ||hc3.tdm.qq.com^
