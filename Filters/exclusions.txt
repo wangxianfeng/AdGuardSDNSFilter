@@ -17,4 +17,7 @@
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
 ||gpcloud.tgpa.qq.com^
 ||hc3.tdm.qq.com^
-||szmg.qq.com^
+||hpjy-op.tga.qq.com^
+||d3-magic.static.yximgs.com^
+||h1.static.yximgs.com^
+||static.yximgs.com^
