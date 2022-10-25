@@ -20,4 +20,6 @@
 ||hpjy-op.tga.qq.com^
 ||d3-magic.static.yximgs.com^
 ||h1.static.yximgs.com^
-||static.yximgs.com^
+||iosapps.itunes.apple.com^
+||xp.apple.com^
+||ioshost.qtlcdn.com^
