@@ -16,3 +16,4 @@
 ||hpjy-op.tga.qq.com^
 ||d3-magic.static.yximgs.com^
 ||h1.static.yximgs.com^
+||tpstelemetry.tencent.com^
