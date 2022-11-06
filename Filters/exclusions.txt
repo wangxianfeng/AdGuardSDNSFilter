@@ -17,3 +17,5 @@
 ||d3-magic.static.yximgs.com^
 ||h1.static.yximgs.com^
 ||tpstelemetry.tencent.com^
+||circlevideopc.photo.qq.com^
+||worldtj.photo.store.qq.com^
