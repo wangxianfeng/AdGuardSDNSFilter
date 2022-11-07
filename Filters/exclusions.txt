@@ -25,3 +25,4 @@
 ||apijs.ksapisrv.com^
 ||upload.ksapisrv.com^
 ||worldgz.photo.store.qq.com^
+||circlevideo3.photo.qq.com^
