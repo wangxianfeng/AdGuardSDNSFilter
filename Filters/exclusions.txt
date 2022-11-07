@@ -19,3 +19,9 @@
 ||tpstelemetry.tencent.com^
 ||circlevideopc.photo.qq.com^
 ||worldtj.photo.store.qq.com^
+||world.qpic.cn^
+||stvideo.kaixinkan.com.cn^
+||livejs.ksapisrv.com^
+||apijs.ksapisrv.com^
+||upload.ksapisrv.com^
+||worldgz.photo.store.qq.com^
