@@ -35,3 +35,7 @@
 ||36s113ks.pull.yximgs.com^
 ||shuc-pc-hunt.ksord.com^
 ||ocsp.dcocsp.cn^
+||sfsc.gifshow.com^
+||api.gifshow.com^
+||zt-hd-scd.wangjumeng.xin^
+||api.kuaishouzt.com^
