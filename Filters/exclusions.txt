@@ -33,3 +33,5 @@
 ||gdfp.gifshow.com^
 ||multi-region.kuaishou.com^
 ||36s113ks.pull.yximgs.com^
+||shuc-pc-hunt.ksord.com^
+||ocsp.dcocsp.cn^
