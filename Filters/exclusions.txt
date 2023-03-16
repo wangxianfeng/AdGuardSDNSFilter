@@ -24,3 +24,5 @@
 ||upload.ksapisrv.com^
 ||worldgz.photo.store.qq.com^
 ||circlevideo3.photo.qq.com^
+||ks.push.yximgs.com^
+||ks-p2p-pull.video-voip.com^
