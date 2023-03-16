@@ -30,3 +30,5 @@
 ||v5.oskwai.com^
 ||v2-zj-jscm.kwaicdn.com^
 ||v2-zj-hbcm.kwaicdn.com^
+||gdfp.gifshow.com^
+||multi-region.kuaishou.com^
