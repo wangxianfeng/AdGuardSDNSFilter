@@ -26,3 +26,7 @@
 ||circlevideo3.photo.qq.com^
 ||ks.push.yximgs.com^
 ||ks-p2p-pull.video-voip.com^
+||v3.kwaicdn.com^
+||v5.oskwai.com^
+||v2-zj-jscm.kwaicdn.com^
+||v2-zj-hbcm.kwaicdn.com^
