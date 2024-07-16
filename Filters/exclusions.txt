@@ -94,3 +94,7 @@
 ||api.kuaishouzt.com^
 @@||uc.cn^$important
 @@||bing.com^$important
+@@||cctv.com^$important
+@@||cntv.cn^$important
+@@||qcloud.com^$important
+@@||myqcloud.com^$important
