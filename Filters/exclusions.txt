@@ -92,3 +92,5 @@
 ||api.gifshow.com^
 ||zt-hd-scd.wangjumeng.xin^
 ||api.kuaishouzt.com^
+@@||uc.cn^$important
+@@||bing.com^$important
