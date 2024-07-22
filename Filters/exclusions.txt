@@ -98,3 +98,9 @@
 @@||cntv.cn^$important
 @@||qcloud.com^$important
 @@||myqcloud.com^$important
+@@||time.windows.com^$important
+@@||ctldl.windowsupdate.com^$important
+@@||login.live.com^$important
+@@||fd.api.iris.microsoft.com^$important
+@@||arc.msn.com^$important
+@@||cass.api.microsoft.com^$important
