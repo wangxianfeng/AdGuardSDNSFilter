@@ -104,3 +104,4 @@
 @@||fd.api.iris.microsoft.com^$important
 @@||arc.msn.com^$important
 @@||cass.api.microsoft.com^$important
+@@||statics.123pan.com^$important
