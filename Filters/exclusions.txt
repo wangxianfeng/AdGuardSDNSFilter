@@ -111,3 +111,4 @@
 @@||analysis-acc-ssl.xunlei.com^$important
 @@||code.visualstudio.com^$important
 @@||vscode.download.prss.microsoft.com^$important
+||statics.123pan.com^$important
