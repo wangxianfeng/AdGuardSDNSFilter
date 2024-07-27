@@ -104,3 +104,10 @@
 @@||fd.api.iris.microsoft.com^$important
 @@||arc.msn.com^$important
 @@||statics.123pan.com^$important
+@@||srtb.msn.cn^$important
+@@||f-ztuni.tec73.com^$important
+@@||ifs.tanx.com^$important
+@@||upgrade.xl9.xunlei.com^$important
+@@||analysis-acc-ssl.xunlei.com^$important
+@@||code.visualstudio.com^$important
+@@||vscode.download.prss.microsoft.com^$important
