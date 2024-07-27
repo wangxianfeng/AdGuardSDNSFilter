@@ -111,4 +111,8 @@
 @@||analysis-acc-ssl.xunlei.com^$important
 @@||code.visualstudio.com^$important
 @@||vscode.download.prss.microsoft.com^$important
-||statics.123pan.com^$important
+@@||fe3cr.delivery.mp.microsoft.com^$important
+@@||slscr.update.microsoft.com^$important
+@@||msedge.b.tlu.dl.delivery.mp.microsoft.com^$important
+@@||displaycatalog.mp.microsoft.com^$important
+@@||licensing.mp.microsoft.com^$important
